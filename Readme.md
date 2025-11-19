@@ -6,9 +6,9 @@ Just a HTML/JavaScript/CSS Color Editor for the U-TURN Blackout+. Because editin
 
 # Usage
 
-Just open `blackout-color-editor-0.2_allinone.html` in a browser – no build or server required. That's it ...
+Just open `blackout-color-editor-<VERSION>_allinone.html` in a browser – no build or server required. That's it ...
 
-The `blackout-color-editor-0.2.html` needs the `img` directory with the logo files. It's included in the `allinone` file
+The `blackout-color-editor-<VERSION>.html` needs the `img` directory with the logo files. It's included in the `allinone` file
 
 # Features
 * Flood Fill Painting: Click on grey zones to fill them with a selected color.
