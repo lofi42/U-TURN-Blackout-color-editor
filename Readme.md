@@ -4,6 +4,11 @@ Just a HTML/JavaScript/CSS Color Editor for the U-TURN Blackout+. Because editin
 
 **⚠️ Disclaimer: This tool is not official U-TURN software and comes with no warranty. If you create a design using this editor and submit it to U-TURN, there's no guarantee that the colors will be correctly interpreted or produced. It's intended solely for personal visualization. For official orders, please continue to use the official U-TURN template PDF.**
 
+# Direct Start
+
+Link: https://lofi42.github.io/U-TURN-Blackout-color-editor/blackout-color-editor.html
+
+
 # Usage
 
 Just open `blackout-color-editor_allinone.html` in a browser – no build or server required. That's it ...
